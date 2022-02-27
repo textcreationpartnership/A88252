@@ -1,0 +1,755 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second part of Englands new-chaines discovered: or a sad representation of the uncertain and dangerous condition of the Common-Wealth: directed to the supreme authority of England, the representors of the people in Parliament assembled. By severall wel-affected persons inhabiting the city of London, Westminster, the borough of Southwark, hamblets, and places adjacent, presenters and approvers of the late large petition of the eleventh of September. 1648. And as it is avowed by Lievtenant Colonel John Lilburn, Mr. Richard Overton, and Mr. Tho. Prince, upon perill of their lives; and for which they are now committed to the Tower as traytors.</title>
+            <title>Englands new chains discovered. Part 2.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88252</idno>
+            <idno type="STC">Wing L2180</idno>
+            <idno type="STC">Thomason E548_16</idno>
+            <idno type="STC">ESTC R204429</idno>
+            <idno type="EEBO-CITATION">99863922</idno>
+            <idno type="PROQUEST">99863922</idno>
+            <idno type="VID">116138</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88252)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116138)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E548[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second part of Englands new-chaines discovered: or a sad representation of the uncertain and dangerous condition of the Common-Wealth: directed to the supreme authority of England, the representors of the people in Parliament assembled. By severall wel-affected persons inhabiting the city of London, Westminster, the borough of Southwark, hamblets, and places adjacent, presenters and approvers of the late large petition of the eleventh of September. 1648. And as it is avowed by Lievtenant Colonel John Lilburn, Mr. Richard Overton, and Mr. Tho. Prince, upon perill of their lives; and for which they are now committed to the Tower as traytors.</title>
+                  <title>Englands new chains discovered. Part 2.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>[2], 16, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Lilburne.</note>
+                  <note>The title page is a cancel, apparently printed on previously blank pi1. The cancellandum, printed on pi2 mostly in the same setting of type, had ".. September. 1648. All persons who are assenting to this representation, are desired to subscribe it, and bring in their subscriptions to the presenters and approvers of the foresaid petition of the 11 of Sept.".</note>
+                  <note>Annotation on Thomason copy: "March 24 1648". The 9 in the date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Original title page uncanceled.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116138:1"/>
+            <pb facs="tcp:116138:1" rendition="simple:additions"/>
+            <p>
+               <hi>The ſecond Part</hi> OF ENGLANDS New-Chaines DISCOVERED:</p>
+            <p>Or a ſad Repreſentation of the uncertain and dangerous condition of the COMMON-WEALTH: DIRECTED To the Supreme Authority of <hi>England,</hi> the Repreſentors of the People in Parliament aſſembled.</p>
+            <p>By ſeverall wel affected perſons inhabiting the City of <hi>London, Weſtminster,</hi> the Borough of <hi>Southwark, Hamblets,</hi> and places adjacent, preſenters and approvers of the late large Petition of the Eleventh of <hi>September.</hi> 1648.</p>
+            <p>All perſons who are aſſenting to this <hi>Repreſentation,</hi> are deſired to ſubſcribe it, and bring in their Subſcrip<g ref="char:EOLhyphen"/>tions to the Preſenters and Approvers of the foreſaid Petition of the 11 of <hi>Sept.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1649.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:116138:2"/>
+            <pb facs="tcp:116138:2" rendition="simple:additions"/>
+            <p>
+               <hi>The ſecond Part</hi> OF ENGLANDS New-Chaines DISCOVERED:</p>
+            <p>Or a ſad Repreſentation of the uncertain and dangerous condition of the COMMON-WEALTH: DIRECTED To the Supreme Authority of <hi>England,</hi> the Repreſentors of the People in Parliament aſſembled.</p>
+            <p>By ſeverall wel affected perſons inhabiting the City of <hi>London, Weſtminster,</hi> the Borough of <hi>Southwark, Hamblets,</hi> and places adjacent, preſenters and approvers of the late large Petition of the Eleventh of <hi>September.</hi> 1648.</p>
+            <p>And as it is avowed by Lievtenant Colonel <hi>John Lilburn,</hi> Mr. <hi>Richard Overton,</hi> and Mr. <hi>Tho. Prince,</hi> upon perill of their lives; and for which they are now committed to the Tower as <hi>Traytors.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116138:3"/>
+            <pb facs="tcp:116138:3"/>
+            <head>To the Supreme Authority of <hi>ENGLAND,</hi> the Repreſentors of the People, in Parliament Aſſembled. THE Sad Repreſentation <hi>of the uncertain and dangerous Conditi<g ref="char:EOLhyphen"/>on of the Common-wealth: By the Preſenters and Approvers of the Large</hi> Petition <hi>of the</hi> 11. <hi>of</hi> September, 1648.</head>
+            <p>IF <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur hearts were not over-changed with the ſenſe of the pre<g ref="char:EOLhyphen"/>ſent miſeries and approching dangers of the Nation, your ſmal <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egard to our late ſerious Apprehenſions, would have kept us ſilent; but the miſery, danger, and bondage threatned is ſo great, imminent, and apparent, that whilſt we have breath, and are not violently reſtrained, we cannot but ſpeak, and even cry aloud, until you hear us, or God be pleaſed otherwaies to relieve us.</p>
+            <p>Nor ſhould you in reaſon be with-held from conſidering what we preſent you withal, through any ſtrangeneſs that appeareth therein; For what was more incredible, than that a Parliament truſted by the people to deliver them from all kinds of oppreſſi<g ref="char:EOLhyphen"/>on, and who made ſo liberal effuſion of their bloud, and waſte of their eſtates (upon pretenſe of doing thereof) ſhould yet ſo ſoon as they were in power, oppreſs with the ſame kind of oppreſſions, which yet was true in the times of <hi>Hollis</hi> and <hi>Stapletons</hi> faction, and who, (as the King and Biſhops had done before) laboured for an Army to back and perpetuate them therein.</p>
+            <p>Nor were our Petitions then preſented (wherein we juſtly com<g ref="char:EOLhyphen"/>plained of thoſe oppreſſions, and fore-warned them of the dan<g ref="char:EOLhyphen"/>ger
+<pb n="2" facs="tcp:116138:4"/>enſuing) the leſs conſiderable for their burning them by the hand of the common hangman; Nor the Petitioners the more blame-worthy for being reproched with the names of Atheiſts, Hereticks, and ſeditious Sectaries (as now with Jeſuite, and Le<g ref="char:EOLhyphen"/>veller) Aſperſions being the known marks of corrupt Stateſ-men, and uſually working no other effect, but the diſcredit of the Aſ<g ref="char:EOLhyphen"/>perſers. Yet were there then many who believed their reports of us, and they were as impatient with us, for our taxing them with their wicked and pernicious deſigns, as others are now for our preſuming to detect them, who are ſo high in preſent power and reputation: But it is now evident, that it is poſſible for our Phyſitians to bring us into a more dangerous condition than they found us.</p>
+            <p>And though experience hath made us wofully ſenſible, that no<g ref="char:EOLhyphen"/>thing is more danger us to any people than their bearing with unjuſt, covetous, or ambitious practiſes in thoſe they truſt; Yet did we forbear to interpoſe our judgements, or to oppoſe thoſe mens deſigns, until they had made a large progreſs toward our bondage, and endeavoured to graſp the power of the Army into their hands, thereby to enforce their Tyrannie upon us; inſomuch that it was almoſt too late to give check to their wicked intenti<g ref="char:EOLhyphen"/>ons: ſo unwilling were we to believe it poſſible for men who all along pretended liberty and redreſs of grievances, to degenerate ſo ſoon into the groſſeſt Principles and practiſes of long ſetled Tyrannies.</p>
+            <p>And much more do our Conſciences bear us witneſs of our backwardneſs to believe any evil intentions in thoſe who not on<g ref="char:EOLhyphen"/>ly were moſt vigorous and ſucceſsful againſt the common enemy, but ſeemed ſo ſenſible of the injuſtice and trechery of that preva<g ref="char:EOLhyphen"/>lent faction in Parliament, as to engage with the utmoſt of their might, as if they had really intended to deliver the Nation from that dangerous thraldom, ſo that we both durſt, and did many of us, venture our lives upon their fidelity; Yea ſo powerful, perſwa<g ref="char:EOLhyphen"/>ſive, and contentful were their firſt Engagements, Papers, and Remonſtrances, ſo fraught with ſelf-denying Doctrines, tender re<g ref="char:EOLhyphen"/>gard to the peace of the Nation, and ſatisfaction to all intereſts; as even lulled all peaceable People into a ſound ſleep of ſecurity, ca<g ref="char:EOLhyphen"/>ſting all their care upon the General Councel of the Army, as up<g ref="char:EOLhyphen"/>on a People they thought could never have the face to decline ei<g ref="char:EOLhyphen"/>ther thoſe principles, or to neglect the performance of ſo many en<g ref="char:EOLhyphen"/>gagements,
+<pb n="3" facs="tcp:116138:4"/>promiſes, and proteſtations, made as in the preſence of the all-ſeeing God, frequently calling upon him, the ſearcher of all hearts, to bear witneſs to their integrity and ſincerity therein Inſo<g ref="char:EOLhyphen"/>much that we (who alwaies with ſome warineſſe obſerved them) many times denyed our own underſtandings rather than we would <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w haſty concluſions from evident teſtimonies of their defection.</p>
+            <p>But when after they had once ſleighted the Agitators. and diſ<g ref="char:EOLhyphen"/>countenanced thoſe Officers and Souldiers, who firſt engaged a<g ref="char:EOLhyphen"/>gainſt the deſtructive Votes of Parliament; ſuch as ſtood firm to their engagements at New-market, and Triploe Heath: when we ſaw they not only neglected them, but adhered to perſons ſent from Parliament and City, in thoſe corrupted times, and fell im<g ref="char:EOLhyphen"/>mediately to plead for Negative Voyces in the King, and Lords; checking and controuling thoſe that oppoſed: When we under<g ref="char:EOLhyphen"/>ſtood their General Councels (which according to their engage<g ref="char:EOLhyphen"/>ments ought to have conſiſted only of two ſelect Commiſſion Officers, and two private Souldiers, choſen by every Regiment, with ſuch General Officers as aſſented to the Engagement, and no other) were nevertheleſſe overgrown with Collonels, Lieut. Collonels, Majors, and others, not choſen; and many of them diſſenters from the ſaid Engagement; and that ſome few emi<g ref="char:EOLhyphen"/>nent perſons preſum'd above meaſure therein, and in effect over<g ref="char:EOLhyphen"/>awed and controuled thoſe Councels: and that the contrivance of a Counſel of State, was the great engine which thoſe Councels la<g ref="char:EOLhyphen"/>boured to bring about: when we found them not only to Court the King, by kiſſing his hand, and the like, and that a correſpon<g ref="char:EOLhyphen"/>dency was held between him and the General Officers, and A<g ref="char:EOLhyphen"/>gents ſent to and fro continually, whereby they came to ſo neer a cloſe, as that their Propoſals were not only received, but corrected and amended by the King, before they were ſent to the Houſe, till they became very conſiſtent with his ends and Prerogative: and thoſe Officers ſo engaged thereby, as to be moved to impatience towards any that ſpake a ſillable againſt this their trafique and in<g ref="char:EOLhyphen"/>tercourſe with him: upon which likewiſe, they concluded an Agreement with the oppoſing Cittizens of London, without ſo much as calling the Agitators to advize thereupon. Seeing, Hearing, and Vnderſtanding theſe things, no maryel if we were ſtaggered in our Beleefe of their integrity.</p>
+            <p>But that a perſon ſo deeply charged as the Earl of Mancheſter, and other grand ſelf-ſeekers of this Houſe ſhould be entertained with ſo great reſpect, and guarded to their places in Parliament,
+<pb n="4" facs="tcp:116138:5"/>and that notwithſtanding the prevailing power of the Army<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thoſe who had uſurped the Authority of the Houſe, and Voted a new warre, were nevertheleſſe permitted to ſit and Vote there, and that contrary to the importunate deſires of the Agitators, and the Remonſtrance of the Army: and then one of the firſt fruits of this their conjunction was the paſſing of an Ordinance for Tythes, upon trebble dammages, which the corrupt Clergy had preſen<g ref="char:EOLhyphen"/>ted (in the abſence of the Speaker) to <hi>Pelhams</hi> Parliament; and the burning of Mr <hi>Biddles</hi> Book, by the Common Hangman<g ref="char:punc">▪</g> and impriſoning his perſon: and that notwithſtanding their glorious March through London, the prerogative Priſoners in the Tower, New-gate, and elſe where, were utterly neglected, and the Councel of thoſe friends ſleighted, who had been inſtrumental, e<g ref="char:EOLhyphen"/>ven to the loſſe of ſome, and the hazard of all their lives, to mak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an eaſie and unbloudy paſſage for the Army into Southwark and the City: Vpon obſervation of theſe and abundant more particu<g ref="char:EOLhyphen"/>lars, which we could enimerate, we concluded, that the Councels of the Army were not ſteered as at their firſt engagement, by the ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lect perſons choſen thereunto, nor for the ends in that engage<g ref="char:EOLhyphen"/>ment expreſſed; but by ſome other powerfull and over-ruling in<g ref="char:EOLhyphen"/>fluences, that intended other matters then were pretended, and that laboured by all poſſible means to convert the honeſt endea<g ref="char:EOLhyphen"/>vours of good men in the Army, and elſe-where, and the happy ſucceſſs God had bleſſed them withall, to the advantage of their Luſts, Pride, and Domination: And as time came on, it more and more appeared, that they intended meerly the eſtabliſhment of themſelves in power and greatneſſe, without any regard at all to the peformance of their promiſes and engagements, or any re<g ref="char:EOLhyphen"/>ſpect to the faith and credit of the Army, or to the peace and pro<g ref="char:EOLhyphen"/>ſperity of the Common wealth, and that they walked by no rules or principles either of honeſly or conſcience; but (as meer polli<g ref="char:EOLhyphen"/>titians, were governed altogether by occaſion, and as they ſaw a poſſibility of making progreſs to their deſigns, which courſe of theirs they ever termed a waiting upon providence, that with co<g ref="char:EOLhyphen"/>lour of Religion they might deceive the more ſecurely.</p>
+            <p>Now that this may appear no ſlander, we entreat that without partiality, their after proceedings may be throughly ſcan'd: as firſt, at <hi>Kingſton</hi> it was propoſed by the Agitators, friends of <hi>London, Southwark,</hi> and the places adjacent, that the Tower, City, and
+<pb n="5" facs="tcp:116138:5"/>Borough, might be ſecured by the well-affected Inhabitants, and not by Souldiers, that ſo trade and tralfique might be preſerved, which otherwiſe would be driven away (as it ſoon after proved) And that it was hoped they intended not to ſecure any place by Souldiers, when the wel affected Inhabitants were able to ſecure it. Which adviſe proceeded as well from our reſpects to the City and neighbour places, as upon fears of what we know to be the pra<g ref="char:EOLhyphen"/>ctiſe of other Tyrants (and therefore doubted would be exerciſed by thoſe) namely, the gariſoning great Towns, thereby to keep the people, as well in poverty, as in continual aw and ſubjection.</p>
+            <p>Which adviſe, though aſſented unto by the Agitators, was yet re<g ref="char:EOLhyphen"/>ject<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by the grand Officers, and a new Regiment raiſed, to the further charge of the Common-wealth; the Propoſers themſelves being diſmiſſed with reproches, and the Agitators thruſt out, and not permitted to obſerve how they were dealt withal.</p>
+            <p>At which time alſo its very remarkable with how much height of State they obſerved the King at <hi>Hampton</hi> Court, viſiting him themſelves, and permiting thouſands of people dayly to viſit him, to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſs his hand, and to be healed by him, whereby his party in the City, and every where, were exceedingly animated, his Agents be<g ref="char:EOLhyphen"/>ing as familiar at the head-quarters, as at the Court. Then on a ſud<g ref="char:EOLhyphen"/>den, when the Houſe complyed not with their purpoſes, in all haſt it was to be purged, and thereupon they publiſh a large Remon<g ref="char:EOLhyphen"/>ſtrance, <hi>Aug.</hi> 18. ſtuffed with publike reaſons, to ſhew the juſtneſs and neceſſity thereof: but the Houſe again complying, through the ſight of their Remonſtrance, though no whit changed in reſpect of its corruption; &amp; they finding, if it were purged, it would not be for their deſign; they make nothing of their former reſolution, but continue it in its corrupt condition, and ſit with them themſelves.</p>
+            <p>Then they fall to work again about the King, and ſend the pro<g ref="char:EOLhyphen"/>poſitions of <hi>New-caſtle</hi> to him, which they knew, and were a<g ref="char:EOLhyphen"/>greed he ſhould not ſign; in the mean time, they ſo wrought the King by deep promiſes, and hopes of reſtauration, as that he incli<g ref="char:EOLhyphen"/>ned much to countenance the Army, gave out words in their fa<g ref="char:EOLhyphen"/>vour, and in his anſwer to the Houſe, prefer'd their Propoſals, be<g ref="char:EOLhyphen"/>fore the Parliaments Propoſitions; in lieu thereof, the great ones of the Army themſelves, endeavoured the revival of a Treaty, and ſome of them in the Houſe, were very violent againſt motions of no more Addreſs, and expreſſed it was the ſenſe of the Army that further Addreſs ſhould be made, and that except they would make
+<pb n="6" facs="tcp:116138:6"/>Addreſſes of another nature to the King, they could not pro<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> them the aſſiſtance of the Army; and accordingly they take pains to work every man at the head-quarters; upon which; petitions were attempted in the Army, in favour of a Treaty, and ſome con<g ref="char:EOLhyphen"/>ſcientious, but weak people, were drawn to ſecond their deſign, with a Petition for a Perſonal Treaty, which they had ready at the Houſe dore.</p>
+            <p>Theſe ſtrange and myſterious proceedings, occaſion'd a new face of things in the Army, many of the Officers being much diſtaſted thereat, &amp; whole Regiments chuſing new Agents to look after the publike, as fearing things were runing head-long into a moſt dan<g ref="char:EOLhyphen"/>gerous condition: The far greater number of the Officers, would not by any means indure to hear of the Armies compliance with the King, and the Agents finding all former engagements, promi<g ref="char:EOLhyphen"/>ſes, and declarations broken, and utterly neglected, and the Com<g ref="char:EOLhyphen"/>mon wealth in danger of utter diſſolution, produce an <hi>Agreement of the People, upon grounds of Common Right, for uniting of all un<g ref="char:EOLhyphen"/>prejudiced people therein;</hi> the great Officers very much oppoſe it a while, as having ſet up another Intereſt: but ſeing the ſame take with the Army, profeſs <hi>though at preſent their judgements could not ſo far cloſe with it as to act for it, yet they would never oppoſe it.</hi> Hereupon the whole frame of the deſign alters, and the matters in projection with them were how to diſ-ingage themſelves, and be rid of the King, and how likewiſe to diſcountenance and keep un<g ref="char:EOLhyphen"/>der the diſcerning party in the Army. In order to the firſt, they caſt about how to get the King into the Iſle of <hi>Wight,</hi> where they might both eaſier keep others from him, and the more entirely poſſeſs him themſelves; and that he might with willingneſs be hurried thither, they work upon his fear; ſuggeſting to him, that there was an intention in ſome violent perſons to murder him, and perſwade him to leave that in a letter, as the cauſe of his remove. To make which the more credible, they wrought L. Col. <hi>Hen. Lil<g ref="char:EOLhyphen"/>burn</hi> to aſperſe his brother <hi>John</hi> (who then ſtood in the way of the great men of the Army) with a baſe &amp; abhorrid reſolution of being one that intended to murder the King; to the proof whereof they would never ſuffer the Aſperfer to be brought (though ſolicited thereunto by a Petition from divers well-affected perſons) but in<g ref="char:EOLhyphen"/>ſteed thereof, for that perſideous ſervice, they advanced him to the government of <hi>Tinmouth</hi> Caſtle, above his brother <hi>Robers,</hi> where
+<pb n="7" facs="tcp:116138:6"/>retaining the leven of his Apoſtacy, which the Gen. Officers had laid in him, he ſuffered the deſerved reward of a perfidious traytor.</p>
+            <p>And though the General Officers enclined him to this revolt themſelves, as well by their example, as by countenancing him in the beginning thereof; and though for the ſame he incurred the extreme diſpleaſure of his Father, and Kindred, yet are both his Father and Kindred by the Officers themſelves and their Aſſoci<g ref="char:EOLhyphen"/>ates aſperſed with the fact, as if tainted with guilt and contammi<g ref="char:EOLhyphen"/>nation thereof.</p>
+            <p>Thus did they kill two birds with one ſtone, framing a Name for them which of all others is moſt diſtaſtefull to the People, and was therefore moſt likely to beget a beleef of the pretended aſſaſ<g ref="char:EOLhyphen"/>ſination.</p>
+            <p>Where (by the way) we deſire it may be obſerved, that not<g ref="char:EOLhyphen"/>withſtanding the word <hi>Leveller</hi> was framed and caſt upon all thoſe in the Army (or elſewhere) who are againſt any kind of Tyranny, whether in King, Parliament, Army, Councel of State, &amp;c. And though it was not ſo much as beleeved to concern thoſe upon whom they caſt it, the inventers having often profeſſed as much, yet have they both themſelves and by their Inſtruments in<g ref="char:EOLhyphen"/>duſtriouſly propagated the ſame, and inſinuated both this and o<g ref="char:EOLhyphen"/>ther ſlanders of us into the hearts of all the eaſy and credulous people they could meet withall.</p>
+            <p>But to returne, The King thus removed, they judge themſelves at good leiſure to deal with the Agreers for the People, and ſo ſuddainly violent they became in that work, that at the firſt Ran<g ref="char:EOLhyphen"/>dezvous neer Ware, they ſhot a Souldier to death; for purſuing the ends of the Engagement at New-market, and for inſiſting upon the Agreement for the People: unworthily abuſed Major <hi>Skott,</hi> a Member of this Houſe, ſent him up a priſoner, and accuſed him and Col. <hi>Rains borough</hi> for appearing in behalf of the Agreement, and therewithall ſent Col. <hi>Ayres,</hi> Major <hi>Cobbet,</hi> Capt. <hi>Bray<g ref="char:punc">▪</g>
+               </hi> and many others after them priſoners to Windſor, where, as Parties, Judges, and Juries, the Officers did what they would againſt them, ſentencing ſome to death, others to diſgracefull puniſh<g ref="char:EOLhyphen"/>ments, reſtraining and releaſing at pleaſure, and with as much Ar<g ref="char:EOLhyphen"/>bitrarineſſe as ever was in the world, and could not be diſwaded though Mr <hi>Sal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>marſh</hi> and others bore full teſtimony againſt the cruelty and injuſtice thereof. Hereupon at the Houſe they pro<g ref="char:EOLhyphen"/>cured at once the impriſonment of five cordial Citizens, for juſti<g ref="char:EOLhyphen"/>fying
+<pb n="8" facs="tcp:116138:7"/>the Agreement of the People, and requiring J<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ice for the bloud of the Souldier that was ſhot at Ware, dis<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ra<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ia<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d them, and under the notion of London Agents forba<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their meetings. And when now they thought they had m<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lded and q<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d the Army to their own bent, and had gratified their complying Offi<g ref="char:EOLhyphen"/>cers; with the cruelty upon the Levellers, (for ſo they have ſtiled all who have manifeſted any ſence of Common Right) and had found that they could be nothing ſo great, rich, and potent, upon a cloſe with the King, and that it would be impoſſible for them to hold either Officer or Souldier firm to them, in caſe of ſuch com<g ref="char:EOLhyphen"/>poſure. Hereupon uterly to fruſtrate his hopes that way, they pre<g ref="char:EOLhyphen"/>vail with the Houſe to Vote no more Addreſſes; and ſo vaniſht away all their glorious flattery of the King and his Party, and their notorious diſſimulation appeared, abuſing thereby the Faith of the Army, and making it cleer to all diſcerning men, that ſuch as could ſo break with one ſort of men, will make no Conſcience of keeping faith with any.</p>
+            <p>Their next work was to new-mould the City, and make it theirs, for which purpoſe they brought ſome Regiments of Horſe and Foot, to White Hall and the Muſe, to the extreme diſcontent of the City, and provoke them further by keeping their Lord Mayor, and ſome of their Aldermen in the Tower, without ad<g ref="char:EOLhyphen"/>mitting them to a Legal Tryal, though upon Petitions and ear<g ref="char:EOLhyphen"/>neſt Deſires: at laſt they were referred to be tryed by the Lords, contrary to the known Law of the Land; but their juriſdiction being diſclaimed, after a while they were releaſed without any Tryal at all, their end being accompliſht, which was the terror of the City, and changing the Magiſtrates thereof, ſo as ſhould beſt ſerve their deſignes.</p>
+            <p>About this time alſo they began to exerciſe their Marſhal pow<g ref="char:EOLhyphen"/>er over perſons not of the Army, and did ſentence Mr <hi>William Thomſon</hi> to death at White Hall. And then alſo they began to new moddel the Army, and for that end, (though the new raiſed Regiment for the Tower was thought no burthen, yet upon pre<g ref="char:EOLhyphen"/>tence of eaſing the charge of the Common wealth, the Life-Guard muſt be disbanded, becauſe conſiſting of diſcerning men, faithfull to their Country and former promiſes, and many others of like principles were pickt out of every Regiment; the deſigne being by weeding the choiſeſt and beſt reſolved men, to make the Army wholy mercinary, ſlaviſh, and the Executioners of a few mens luſts and lawleſſe Pleaſures.</p>
+            <pb n="9" facs="tcp:116138:7"/>
+            <p>All which thoſe good men perceiving and reſolving thereupon not to be disbanded, according to the Agreement at <hi>New markes,</hi> till the ends therein expreſſed were fully gained, they were en<g ref="char:EOLhyphen"/>forced thereunto by Tyre <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> call Sentences of Impriſonment and Death (though the Officers themſelves had formerly refuſed to disband upon command of Parliament upon the ſame grounds and ſtrength of the ſame engagement:) By all which 'tis evident, that according to the maxime of Po<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ititians, they judge them<g ref="char:EOLhyphen"/>ſeves looſe, where other men are bound; and that all obligations are to them Tra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſitory and Ceremoniall, and that indeed every thing is good and juſt only, as it is conducing to their corrupt and ambitions intereſts.</p>
+            <p>And thus the moſt hopefull opportunity that ever <hi>England</hi> had for recovery of our <hi>Freedome,</hi> was ſpent and conſumed, in ſuch their uncertaine, ſtaggering motions, and arbitrary, irrationall Proceedings, whereby all parryes became extreamly exaſperated, as People that had been meerly mock'd and cheated by faire pro<g ref="char:EOLhyphen"/>miſes, and under the moſt religious <hi>Pretences,</hi> &amp;c. Hereby the Ar<g ref="char:EOLhyphen"/>my, that had but few moneths before been the joy and hope of all ſons of Rationall People, was made a by word, a hiſſing, and a Reproach to the whole Nation: inſomuch that thoſe (in hope of their large good Promiſes, and proteſts in their <hi>Declarations</hi>) who thought nothing too precious for them, now grudged them bread, &amp; were ready to ſtone them in all places where they came; Trade fled, Poverty increaſed, and diſcontents abounded, till at length broke out ſuch a flame, as no time had ever ſeen before; and no doubt was the propper iſſue of ſuch horrid de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſion, mini<g ref="char:EOLhyphen"/>ſtring ſuch matter for a generall Riſing and Revolt, as all former policies could never attain to, and more threatning the ruine of the Nation then all the former forces and ſtratagems of the ene<g ref="char:EOLhyphen"/>mies: and which is rightly to be imputed to the unjuſt partiall and perfidious dealings of theſe men.</p>
+            <p>But when they ſaw what a ſtrange predicament they had brought themſelves into, and which they would never beleeve, till it was come upon them (no more then now they will) they had before manifeſted a greater obſtinacy, then now they did a ſerious Re<g ref="char:EOLhyphen"/>pentance (which yet as the ſequell proves, was but counter<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eit) though (as God knoweth) we were overjoyed to beleeve it re<g ref="char:EOLhyphen"/>all: Acknowledging, with the greateſt expreſſions of ſorrow, that
+<pb n="10" facs="tcp:116138:8"/>they had walked by <hi>corrupt Pollitick Principles;</hi> That they had been to blame in Actings againſt honeſt men; That the name of <hi>L<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>l<g ref="char:EOLhyphen"/>ler, Jeſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te</hi> or the like reproaches, ſhould never be more heard amongſt them, that if ever the Nation be happy, in muſt be by a conjunction in the <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers</hi> Principles, calling upon all, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly by all <hi>Diſcontents,</hi> to forget and forgive, and to unite all againſt the <hi>Common enemy</hi> and promiſing with greateſt aſſeverations, That if God, upon our joynt endeavors, ſhould be pleaſed to deliver us out of this Sea of <hi>danger,</hi> that they would never divide from juſt <hi>Principles,</hi> nor in the leaſt diſcountenance honeſt men as they had done, nor endeavor to ſet up a party, but caſt themſelves upon an <hi>ag<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ement of the People</hi> for the future ſettlement of the <hi>Peace of the Nation:</hi> but how and what performance they have made, that we ſhall intreat, may be impartially obſerved in the enſuing ſtory; And for a full and timely proofe of their <hi>Re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> &amp; Diſcovery of their diſſimulation: No ſooner had they (through Gods bleſſing and the aſſiſtance of their reconciled friends) fini<g ref="char:EOLhyphen"/>ſhed their worke at <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olecheſter,</hi> but preſently they call to queſtion certaine Perſons, that had appeared at St. <hi>Albanes</hi> in behalf of Captaine <hi>Re<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ald<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> chuſing rather to forſake the <hi>Service,</hi> then to be commanded by Captaines, that had been violent againſt them, that had drunke the Kings <hi>Health</hi> upon their knees, and profeſt they could rather fight againſt the <hi>Levellers</hi> then <hi>Cavaliers,</hi> and theſe (according to their old wont) they <hi>ſentenc'd to Death,</hi> and ſoon after releaſt them, as finding or ſuppoſing this kinde of Diſ<g ref="char:EOLhyphen"/>cipline moſt effectuall, to the breaking and debaſing the ſpirits of the <hi>Engliſh.</hi>
+            </p>
+            <p>And becauſe Col. <hi>Rain borough</hi> had <hi>ever oppoſed their unjuſt Pre<g ref="char:EOLhyphen"/>ceedings,</hi> they withdraw him from the <hi>Army,</hi> by a plauſible<g ref="char:punc">▪</g> but onely a <hi>Ti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ular command at ſea,</hi> whereby the ſtraitneſs of his Com<g ref="char:EOLhyphen"/>miſſion, he not having thereby the command of the Shippes or Officers, he could ne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther reſtrain their Revolt, nor preſerve himſelf from being expu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſed at the Seamans pleaſure out of that employment.</p>
+            <p>Then upon his return, the <hi>ruling Officers</hi> finding him as inflexi<g ref="char:EOLhyphen"/>ble to their ends as formerly they put him upon that dangerous and unhappy Service before <hi>Pomfr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> (notwithſtanding a Com<g ref="char:EOLhyphen"/>mander had been appointed thereunto by the <hi>Committ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> of <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ork<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>) whether he went with much Reluctancy and diſcontent, as won<g ref="char:EOLhyphen"/>dering
+<pb n="11" facs="tcp:116138:8"/>at the <hi>Cauſe of his being Deſign'd thither,</hi> and expreſſing as much to his <hi>Friend, his ſad ſoul preſaging the misfortune, which after befell him.</hi> But that which gives greateſt cauſe of <hi>gr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>f</hi> and <hi>ſuſpect</hi> to his friends, is, that his <hi>Brother</hi> receives no furtherance, but rather, all diſcouragement that may be in ſearching af<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and proſecu<g ref="char:EOLhyphen"/>ting the cauſers of that ſo bloody and inhuman: a <hi>Butchery.</hi>
+            </p>
+            <p>In the <hi>North,</hi> though during the <hi>Service</hi> and Neceſſities of the <hi>Army,</hi> the <hi>Levellers</hi> (as they are call'd) were countenanc'd, and taken into the <hi>Booſmo,</hi> who thereupon (forgetting all former af<g ref="char:EOLhyphen"/>fronts and diſreſpects) did liberally hazzard their lives, without ſuſpition of <hi>fraud</hi> and <hi>deluſion;</hi> Yet the <hi>Nece<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſsities</hi> being over, and the enemies ſubdued, they renew freſh diſgraces, and fall into a greater <hi>Odium,</hi> and contempt then ever.</p>
+            <p>Firſt, <hi>divers Souldiers</hi> for Petitioning in the behalfe of Major <hi>Reynolds,</hi> that he might ſerve in the room of Major <hi>Huntington,</hi> were therefore rated, and threatned to have their skulles cutt, and ſome of them ſtruck for ſo Petitioning; Major <hi>Iohn Cobit,</hi> who <hi>with the extreameſt hazard had regain'd</hi> Tinmouth Caſtle, <hi>where his Superiour Commander had through the dangers thereof refuſed, was notwithſtanding rejected, and a Member of Parliament taken from his duty there,</hi> &amp; <hi>contrary to the</hi> ſelf-denying Ordinance, made Governor <hi>thereof. Major</hi> White, <hi>who in all the desperate ſerv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ces in the</hi> North, <hi>had performed the duty of Lieutenant Colonel, and Major both in the Ge<g ref="char:EOLhyphen"/>nerall Regiment, yet becauſe a conſtant man to his</hi> Promiſes <hi>and</hi> Prin<g ref="char:EOLhyphen"/>ciples, <hi>was refuſed the</hi> Lieftenant Colonelſhip, <hi>and a man of a more complying Spirit fetch'd from another Regiment to officiate therein.</hi>
+            </p>
+            <p>
+               <hi>And this was the uſage not onely to theſe Gentlemen, but to all others whether Officers, or ſouldiers in</hi> North <hi>or</hi> South <hi>(for their Counſells were one in both) that did retaine a ſenſe and Reſolution to proſecute thoſe good things intimated in their former Ingagements.</hi>
+            </p>
+            <p>
+               <hi>And as before, upon their firſt great Succeſſe againſt the City, when now again it juſtly was expected they ſhould have made uſe of ſo notable and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>expected Bleſsings to the benefit</hi> &amp; <hi>advantage of the Common-wealth, (as their late repentances, promiſes and Pretences gave men cauſe to hope) the event proved, they intended another uſe thereof, for (having now ſubdued all their enemies, they proceed with greater confidence to their former purpoſes, of making themſelves abſolute maſters over the Common-wealth, wherein there yet appeared one main obſtacle, and that was an unanimous and uni<g ref="char:EOLhyphen"/>verſall Reſolution in all Well-minded People (eſpecially in that <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>merous PEOPLE that concurred in the PETITION</hi>
+               <pb n="12" facs="tcp:116138:9"/>of the Eleventh of <hi>September</hi> to center in an <hi>Agreement of the Peo<g ref="char:EOLhyphen"/>ple,</hi> which if not evaded, it would be impoſſible for them) to goe through with their Worke: hereupon againe they cry out for Union, and imploy their Agents to get meetings, and Treaties with thoſe that were moſt forward for an <hi>agreement</hi> &amp; contract with them to center in an <hi>Agreement,</hi> and that the Matter of the Petition of the Eleventh of <hi>September</hi> (as was deſired) ſhould be the ſubſtance of that <hi>Agreement:</hi> There being no other way then by this y<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lding in ſhew: to amaze this buſie watchful Party, and to k<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ep them quiet, whilſt they went on with other pieces of their worke.</p>
+            <p>For what elſe, hath all the time ſpent thereabouts produc'd, but a meer amuſing blinding and deluding all that cordially deſired the ſame it being (before they left it) ſo obſcur'd and perplext in the ſence thereof ſo ſhort of what was intended, and ſo corrupted in many perticulars, that thoſe moſt loath'd it that moſt deſir'd it: in the mean time, whilſt they had fixt good mens eyes and thoughts upon that Worke, they ſecretly and ſwiftly proſecute their other Deſignes as principal in their purpoſes, wherein queſtion<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e  they had not had the aſſiſtance of good men but that it was verily be<g ref="char:EOLhyphen"/>leeved in ſhew of driving on their owne Deſigne, they were real<g ref="char:EOLhyphen"/>ly and cordially producing a perfect and complete <hi>Agreement of the People,</hi> as large both in grounds of <hi>Freedome,</hi> and redreſſe of grie<g ref="char:EOLhyphen"/>vances, as the <hi>Petition</hi> of the Eleventh of <hi>September,</hi> in the utter<g ref="char:EOLhyphen"/>moſt extent thereof did import.</p>
+            <p>Many of which Petitioners were not ſatisfyed but that ſuch an <hi>Agreement of the People</hi> might then have been obtained without any of thoſe extraordinary ſudden and violent Courſes lately ta<g ref="char:EOLhyphen"/>ken, neither in bringing the <hi>Army</hi> to the City breaking the Houſe in pieces, or removing the <hi>King</hi> by ſuch an extra Judiciall Procee<g ref="char:EOLhyphen"/>dings and Court of Juſtice as had no place in the <hi>Engliſh</hi> Govern<g ref="char:EOLhyphen"/>ment and did really foreſee, there would be nothing but abuſe in their pretence of an Agreement of the People: and that their own domination, in and by a Counſell of <hi>State,</hi> was the maine thing aimed at, and intended.</p>
+            <p>The Removing the King, the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aking away the Houſe of Lords, the overawing the Houſe, and reducing it to that paſſe, that it is become but the Channell, through which is conveyed all the De<g ref="char:EOLhyphen"/>crees and Determinations of a private Counſell of ſome few Of<g ref="char:EOLhyphen"/>ficers,
+<pb n="13" facs="tcp:116138:9"/>the erecting of their <hi>Court of I<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tice,</hi> and the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Counſell</hi> of <hi>State,</hi> The Voting of the <hi>People</hi> the <hi>Supre<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Power,</hi> and this Houſe the <hi>Supre<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Authority<g ref="char:punc">▪</g>
+               </hi> all theſe Particulars: (though ma<g ref="char:EOLhyphen"/>ny of them in order to good c<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, have been deſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed by We affect<g ref="char:EOLhyphen"/>ed People) are yet become (as they have managed them) of ſole conducement to their ends, and Intents, either by removing ſuch as <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>od in the way between them and the <hi>Power,</hi> wealth, or com<g ref="char:EOLhyphen"/>mand of the Common-Wealth; or by actually poſſeſſing and in<g ref="char:EOLhyphen"/>veſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng them in the ſame.</p>
+            <p>An<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> though all this was foreſeen by us, yet ſo perſwaſive were their inſinuations in the ears of many good &amp; well diſpoſed Peo<g ref="char:EOLhyphen"/>ple, both Sou<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iers and others, that they have been really carried away with beliefe of them, and reliance upon them, and have thought they could not better imploy their time and abilities then in affording them all furtherance, and aſſiſtance that might be.</p>
+            <p>So that their only Feares remaine upon our D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>coveries, to prevent which they uſe meanes, that either we might not have opportunity to lay open their Treacheries, and Hypocrifies, or not be beleeved if we did it.</p>
+            <p>In order to the firſt, They ſtrictly ſtop the Preſſe; In order to the ſecond; They b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt us with all the Scandalls and falſe Reports their Witt or Malice could invent againſt us: and ſo monſtrouſly wicked have they been in this particular, that they have pry'd in<g ref="char:EOLhyphen"/>to all our Actions, made uſe of all our acquaintances, and friend<g ref="char:EOLhyphen"/>ly in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imacies, and in concluſion have <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ery pr<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ed ſuch <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>an<g ref="char:EOLhyphen"/>dalls, as have been cuſtomarily uſed by former Statemen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſuch when can'd and examined, c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntaine both contrariety in themſelves, and have not the leaſt ground of Truth, as concer<g ref="char:EOLhyphen"/>ning us.</p>
+            <p>By theſe Arts are they new <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in their <hi>Power.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> either by oppoſition from the enemy which they may well expect God will raiſe againſt them<g ref="char:punc">▪</g> as the deſerved <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecompence of their vile Apoſtacy; or by the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eight and violence of their many Injuſti<g ref="char:EOLhyphen"/>ces (which in the wick'd courſe they are <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> muſt every day be multiplyed, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they be throwne downe from their <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d great<g ref="char:EOLhyphen"/>neſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e.</p>
+            <p>They have already on the Affection of all People, and are onely ſupported by their preſent ſtrength: but when once thoſe good men that hold them up; ſhall perceive how inſtrumen<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="14" facs="tcp:116138:10"/>they are made, contrary to their intentions, in advancing a fe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lofty and imperious mens <hi>deſignes;</hi> and how eaſy it is for them to convert their <hi>abilities</hi> &amp; <hi>power</hi> to better, and more <hi>co<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ds</hi> ex<g ref="char:EOLhyphen"/>preſt in their former engagements, and which the <hi>compla<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of the agrieved people,</hi> and their owne <hi>underſtandings</hi> can furniſh them withall, they will then lament that they have ſo long been out of the way, and ſet themſelves with the utmoſt courage &amp; reſolution to <hi>free their d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſſed Country</hi> from the <hi>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rs</hi> and <hi>captivity</hi> it now groans under. They may talk of <hi>freedom,</hi> but what <hi>freedom</hi> indeed is there, ſo long as they ſtop the Preſſe, which is indeed and hath been ſo accounted in all <hi>free Nations,</hi> the moſt eſſential part there<g ref="char:EOLhyphen"/>of, imploying an <hi>Apostate Iudas</hi> for <hi>executioner</hi> therein who hath been twice burnt in the hand, a wretched fellow, that even the <hi>Biſhops</hi> and <hi>Star-chamber,</hi> would have ſham<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to own. What <hi>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>do<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> is there left, when honeſt &amp; <hi>worthy Souldiers</hi> are ſentenc'd and enforc'd to <hi>ryde the horſe</hi> with their faces reverſt, and <hi>their ſ<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en ever their heads</hi> for but Petitioning and preſenting a Letter in <hi>juſtification of their Liberty therein:</hi> if this be not a new way of breaking the ſpirits of the <hi>Engliſh,</hi> which <hi>Strafford</hi> and <hi>Ca<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>erbury</hi> never dreampt of we know no difference of things. A taſte alſo of <hi>Liberty of Conſcience</hi> they have given us in the <hi>Caſe</hi> of a worthy <hi>Member</hi> of your Houſe; ſo as we may well judge what is like to follow<g ref="char:punc">▪</g> if their <hi>Reigne continue.</hi> And as for <hi>Peace,</hi> whilſt the <hi>ſu<g ref="char:EOLhyphen"/>pream Officers of the Army</hi> are ſupream in your <hi>Houſe,</hi> in the <hi>Council</hi> of <hi>State,</hi> and all in all in the <hi>generall Counſell of the Army</hi> when the <hi>martiall power</hi> is indeed <hi>ſupream</hi> to the <hi>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vill Authority,</hi> what <hi>Peace</hi> can be expected; we profeſſe we ſee no <hi>counce<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls</hi> tending to it, but hereof mighty and vaſt ſums of money to be taxed upon the Peo<g ref="char:EOLhyphen"/>ple <hi>per <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> as if <hi>warre</hi> were become the only <hi>trade,</hi> or as if the <hi>people</hi> were bound to <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ar<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es</hi> whether they have trade or no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yea, whether they have bread or no.</p>
+            <p>And as for <hi>th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> prosperity of the Nation;</hi> what one thing hath been done that tendeth to it? Nay, hath any thing been done ſince they were in <hi>power?</hi> but what increaſeth the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ancot, hatred, and ma<g ref="char:EOLhyphen"/>lice, which our late <hi>
+                  <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ppy differences</hi> have begotten amongſt us, as if they had placed their happineſs and ſecurity in the <hi>total divi<g ref="char:EOLhyphen"/>ſion of the People,</hi> nothing being offered by them, that hath any face of <hi>reconcilement</hi> in it, nothing of cheerfulneſſe or <hi>generall ſatisfacti<g ref="char:EOLhyphen"/>on,</hi> the mother of <hi>trad<g ref="char:punc">▪</g>
+               </hi> &amp; <hi>plenty,</hi> that might take away the private <hi>remembrances and deſtinctions of partyes:</hi> nothing indeed, but what tendeth to implacable <hi>bitter n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe of ſpirit,</hi> the mother of confuſion penury, and beggery.</p>
+            <pb n="15" facs="tcp:116138:10"/>
+            <p>Nay what ſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce <hi>of the b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r de<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of the p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ple</hi> h<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> they <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>feſted of late, hath it not been by their procurement that the <hi>Iudges</hi> their <hi>creatures</hi> have a thouſand a yeer allow'd to every one of them above the <hi>ordinary fees?</hi> which were ever eſteemed a <hi>heavy oppreſsion</hi> in themſelves: is there any abridgement of the <hi>charge,</hi> or length of time, in <hi>triall</hi> of <hi>cauſes?</hi> are they touch'd with the <hi>generall burthen</hi> of <hi>Tithes,</hi> that <hi>ca<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er of induſtry and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> or with that of <hi>E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ize,</hi> which out of the <hi>bowells of labourers and poor people</hi> enriches the <hi>Vſurers</hi> and other <hi>Catterpillars</hi> of the <hi>Common wealth:</hi> or what have they done to <hi>free Trade from the intolerable burden of Cuſtoms?</hi> except the ſetting <hi>freſh hungry flye</hi> upon the <hi>old <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es</hi> of the People? What one <hi>matterial thing</hi> did they offer unto you in their late <hi>Pe<g ref="char:EOLhyphen"/>tition,</hi> which you gave them ſo many <hi>thanks</hi> for? terming their <hi>de<g ref="char:EOLhyphen"/>ſires</hi> modeſt and deſcreet; when it's evident by the <hi>contents,</hi> they did it only to ſtop the mouths of their <hi>Souldiers</hi> &amp; to amu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e them into a <hi>pleaſing dream,</hi> whilſt they go on with their <hi>deſign<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of abſo<g ref="char:EOLhyphen"/>lute <hi>domination</hi> &amp; which ſhould you in the leaſt oppoſe, you would finde their modeſty no more towards you then towards your <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>cludid members:</hi> In the mean time, <hi>where is their</hi> Charge <hi>againſt thoſe Members? or why finde they not who a<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſt them have conferred</hi> offices <hi>upon each other and upon their,</hi> Creat<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es <hi>and relations? or who they were that gave ſo large Donations of thouſands and hundreds</hi> per annum <hi>whilſt the</hi> Publick Faith <hi>is <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>aken, and F<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>hes are ready to ſtarve for emptying themſelves to ſerve the publick neceſſities; or <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y diſ<g ref="char:EOLhyphen"/>countenance not they al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thoſe who have betrayed the muſt of</hi> Feofees <hi>for Biſhops, and Deli<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>qu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts lands? and are bee<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e purchaſers themſelves of great Eſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, for very f<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> purchaſes, the due value rightly conſi<g ref="char:EOLhyphen"/>dered: or why blame they not the Lord chief</hi> Juſtice <hi>and Lord chief</hi> Ba<g ref="char:EOLhyphen"/>ton <hi>for keeping their places, which wer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> conſe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed on them (and the like o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> others) by this Houſe, when thoſe Members ſat<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ere, they have ex<g ref="char:EOLhyphen"/>cluded or why finde they not o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thoſe perfi<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> perſons that have <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> conſcience of breaking the</hi> ſelf denying Ordinance; <hi>and perſi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> there<g ref="char:EOLhyphen"/>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? or is the reaſon viſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> why they have nothing to pay againſt theſe ſorts of men, namely, becauſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are their own and their Creatures cuſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>? Ob wretched</hi> England, <hi>that ſeeth, and yet ſuffereth ſuch i<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>lleriable ma<g ref="char:EOLhyphen"/>ster<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. What can be expected from ſuch Officers, who frequently manifest a thirſt after the blood of ſuch</hi> People, <hi>and Souldiers as are moſt active for the common</hi> Freedom <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ate &amp; proſperity of the Common-wealth, and againſt whom they <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> alſo to object <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> what can be expected from ſuch a</hi> Counſel <hi>in the</hi> Arm <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> agree that the ſupream</hi> autho<g ref="char:EOLhyphen"/>rity <hi>ſhould be moved to make a l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w, That</hi> that Counſel of <hi>Officers</hi> may
+<pb n="16" facs="tcp:116138:11"/>have Power to have and put to death all ſuch perſons <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ough <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e of the Army, a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey ſhould judged, were <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of she <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>Certainly theſe things cannot but manifeſt unto you <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> very hearts, their inward purpoſes and Intentions repreſenting viſibly before you and all the Word, the moſt dangerous condition, that ever yet this Nation hath been in: And if there be any Con<g ref="char:EOLhyphen"/>ſcience towards God or man to be found amongſt you, the whoſe ſine<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and progreſſe o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this our ſad Repreſentation, is ſo <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly knowne, and from in memory, that it is impoſſible, but it muſt worke upon all amongſt you that are not Co partners with them in their <hi>Deſigne,</hi> or are not engaged (as the Lawyers are) in theſe corrupt Intereſt.</p>
+            <p>But though this long betrayed and miſerable Nation ſhould prove ſo unhappy as that there ſhould not be one found amongſt you, to owne theſe known <hi>Trueths,</hi> which yet ring in every m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns eares, throughout the Land; but through feare, or other <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e re<g ref="char:EOLhyphen"/>ſpects, ſhould ſhut your eyes againſt the light: it ſhall be ſo fa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e from inducing us, to repent of what we have herein (or in our late Apprehenſions) expreſſed, and ſet before you that we ſhall rejoyce above meaſure, that we have witneſſed to the <hi>Trueth;</hi> and againſt all thoſe Deluſions and perſidious Stratagems, lay'd by thoſe men to betray and enſlaue the Common-wealth, to their own Pride, Ambition, Luſts, Covetouneſſe, and Domination, if not Dukeſhip, or Kingſhip; their Creatures diſcourſing of late, That the <hi>Power</hi> muſt be reduced to one: what their meaning is, time (if they be not hindred) will manifeſt: but the Premiſes duly weighed, doth evidence, what <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eit be, it wi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be as b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, at bad poſſibly can be.</p>
+            <p>And as we ſhall not altogether doubt of the appearance of ſome, in this Honorable Houſe, that will conſcionably performe that <hi>Supreame Truſt</hi> which is really and eſſentially reſident in your integrity: what ever may be ſuggeſted to the contrary, (it being not others treachery, nor anyes violence, that can dive<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you of that Authority:) but if you all ſhould ſayl therein, as God forbid, yet we ſhall not doubt, but that what we have here preſented, and publiſhed, will open the eyes, and raiſe the hearts of ſo con<g ref="char:EOLhyphen"/>ſcionable a number of the <hi>Sould<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ry</hi> and <hi>People</hi> in all places, and make them ſo ſenſible of the bondage and danger threatned: as that theſe men, this Faction of Officers, ſhall never be able to got through with their wicked intentions.</p>
+            <pb facs="tcp:116138:11"/>
+            <p>It being an infinite ſhame that they ſhould be ſuffered to pro<g ref="char:EOLhyphen"/>ceed ſo farre therein, as they have done, th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> having beene no party hitherto ſo inexcuſable, for it is poſſible, if not probable that the King and his party, might at firſt be induced to offend through error of breeding, long cuſtome, and ſway of times, (although that excuſe neither him nor them). That <hi>Hollis,</hi> and that party, might at firſt be drawne into their violence, againſt people faithfull to the Common wealth through an erronious zeale againſt ſuppoſed Sectaries, and for uniformity is Presby<g ref="char:EOLhyphen"/>tery (though that alſo but little extenuates their offence) but neither the one nor the other can be imagined to have tranſ<g ref="char:EOLhyphen"/>greſſed againſt ſo evident light, nor againſt ſo many and great obligations of love, and great reſpects from the people as this party hath done; so that the in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>entions, and endeavours of theſe men, to enſlave the Common-wealth, or their continuing of burthens, without any remorſe at the dearneſſe of food, and and utter loſſe of trade, exceeds in the nature and meaſure of it, all the wickedneſſe of both the other parties put together.</p>
+            <p>And therefore upon due conſideration of the premiſes and in utter deteſtation of their moſt perfidious and treacherous dealing with the Army, Parliament and Common-wealth; we do in behalf of our ſelves and all wel-minded people, here be<g ref="char:EOLhyphen"/>fore this Honourable Houſe, as in the preſence of Almighty God, proteſt againſt their breaking the ſaith of the Army with all parties, their diſſolving the Councel of the <hi>Ag<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tator<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and uſur<g ref="char:EOLhyphen"/>ping a power of giving forth the ſence of the Army to the Par<g ref="char:EOLhyphen"/>liament and people, alſo againſt the ſhooting of the Souldier to death at <hi>Ware,</hi> and their cruelties exerciſed on other perſons, to the debaſing of their ſpirits, and thereby new moulding of the Army to their owne deſignes, then playing faſt and looſe with the King and his party, till they brought a new a dange<g ref="char:EOLhyphen"/>rous Warre upon the Nation.</p>
+            <p>We alſo proteſt againſt their diſſembled repentances <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in no meaſure ſatisfactory for ſo abominable offences: we alſo proteſt againſt all their late extraordinary Proceedings, in bringing the Army upon the City, (to the ruine of trade) there breaking the Houſe in pieces without charging the Members particularly: And then judging and taking away of mens lives in an extraordinary way, as done for no other end, but to make way for their owne abſolute domination: we, alſo proteſt a<g ref="char:EOLhyphen"/>gainſt the Election and Eſtabliſhment of thoſe High Courts of
+<pb facs="tcp:116138:12"/>Juſtice, as unjuſt in themſelves, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of dangerous Pe<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e to come <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>as likewiſe againſt the Co<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ell of <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> putting ſome of themſelves therein contrary to their <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>greement: we alſo proteſt againſt all other the like <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of thoſe officers, that on <hi>Thurſday</hi> the 22 of <hi>February</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ted for ſo bloody a (Law, as to hang whom they ſhould <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) diſturbed the Army, (as having no power either by ſuch O<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cels; either to give the ſence of the Army), or to judge any Per<g ref="char:EOLhyphen"/>ſon not of the Arm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, or to do any thing in reference to the Common-wealth, more then what any, ſo many fifty Souldiers or perſons not of the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>my have power and may lawfully do though all the Generall officers were continually preſent <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we proteſt againſt, as things unjuſt abominable and dangerous and declare that our preſent not ſeeking for Juſtice or <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> therein, ſhall be no bar againſt us for the future, when we ſhall ſee cauſe to ſeek for Juſtice and reliefe therein.</p>
+            <p>And for the truth of our Judgements herein: we ſhould with gladneſſe ſubmit unto the determinations of this Ho<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>able Houſe, were not their High hand as yet held over <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. And therefore we are enforced to appeale to a new Rep<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tive, equally choſen in ſuch like manner, as is expreſt in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ons apprehenſions lately preſented unto you, and do <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſire that you would encourage the Army in chu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing a Rep<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſentative, conſiſting of ſelect perſons, choſen by every <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ment of the Army, as at the firſt at <hi>New-mark<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t:</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> humbly pray that you will not any more receive the reſult <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> few officers, as the ſence of the Army the officers of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my having no more power to make Laws for an Army, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the officers of the Common wealth to make Laws for <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ple; both of them being conſtituted only for the Diſ<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Government thereof. We hope you will proceed <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Agreement of the People; according to our <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſerious Apprehenſions, and alſo speedily <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> effect thoſe other things therein deſired, tending very <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the abrogation of the bondage intended.</p>
+            <p>Thus have we once more un<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>uend our <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> diſe<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ged our duries to our C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>morry giving <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> dangerous thra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dom and miſery that yet threatned this much <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> on, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d much we doubt not, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> mixt with <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> honeſt reſo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> prevented: which we ſhall-exceedingly rejoyce to <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> after ſo ma<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y y<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rs of ſorrow the people may <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> La<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>There <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ward for the righte<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s,</hi> and <hi>that there is a God that judgeth the earth.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
